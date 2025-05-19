@@ -11,15 +11,15 @@ module.exports = {
         defaultLanguage: 'ar', // ar | en لغة البوت
         
         activity: {
-            name: 'Wick Studio', // رسالة حالة البوت
+            name: 'Rashwan 5bx7', // رسالة حالة البوت
             type: 'WATCHING', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
             status: 'dnd' // online, idle, dnd, invisible
         }
     },
     server: {
-        guildId: 'ID',         // ايدي السيرفر
-        broadcastRoleId: 'ID', // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'ID' // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: '1373669005675462836',         // ايدي السيرفر
+        broadcastRoleId: '1373670619299971234', // ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: '1373669006606864497' // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     broadcast: {
         cooldownTime: 1000, // لا تلعب فيها
